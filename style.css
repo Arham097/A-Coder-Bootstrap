@@ -1,0 +1,26 @@
+.carousel-item img {
+    max-height: 70vh; /* Adjust this value to your desired height */
+}
+.abimg{
+    width: 450px;
+    height: 450px;
+   
+    margin-left: 200px;
+}
+body{
+    background-color: #faf8f7;
+}
+.separate{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px black;
+}
+.hcards{
+    background-color: white;
+    box-shadow: 0px 2px 10px black;
+ 
+}
+.cont{
+    background-color: white;
+    border-radius: 4px;
+}
